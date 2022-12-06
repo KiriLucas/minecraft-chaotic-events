@@ -1,0 +1,4 @@
+name: ChaoticEvents
+version: ${project.version}
+main: me.kirilucas.chaoticevents.ChaoticEvents
+api-version: 1.19
