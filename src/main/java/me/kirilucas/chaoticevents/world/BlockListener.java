@@ -1,4 +1,4 @@
-package me.kirilucas.chaoticevents;
+package me.kirilucas.chaoticevents.world;
 
 import org.bukkit.event.Listener;
 

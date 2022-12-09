@@ -3,6 +3,7 @@ package me.kirilucas.chaoticevents;
 import me.kirilucas.chaoticevents.npc.listeners.NpcListener;
 import me.kirilucas.chaoticevents.player.listeners.PlayerListener;
 import me.kirilucas.chaoticevents.server.listeners.ServerListener;
+import me.kirilucas.chaoticevents.world.BlockListener;
 import me.kirilucas.chaoticevents.world.listeners.WorldListener;
 import org.bukkit.event.Listener;
 import org.bukkit.plugin.java.JavaPlugin;
